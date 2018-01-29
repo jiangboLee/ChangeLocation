@@ -1,5 +1,5 @@
 # ChangeLocation
-改变自己的定位地址
+改变自己的定位地址，已实际验证！！！在家微信打卡，老婆钉钉打卡都没问题。哈哈。。。。
 
 ![迟到.jpeg](http://upload-images.jianshu.io/upload_images/2868618-af39967557889e2e.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
